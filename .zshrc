@@ -1,1 +1,0 @@
-/home/tanvir/dotfiles/zshrc
